@@ -1056,14 +1056,13 @@ footer .wrapper { text-align: center; }
     border: none;
     background: var(--action-primary);
     display: block;
-    width: 180%;
+    width: 120%;
     padding: 0.5rem 1rem;
     font: inherit;
     color: var(--foreground-secondary);
     border-radius: 5px;
     margin-bottom: 1rem;
     margin-left: 120;
-    position: absolute;
   }
 
   .newsletter input::placeholder { color: inherit; }
